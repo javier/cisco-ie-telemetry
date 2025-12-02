@@ -1,3 +1,5 @@
+Note: This fork just adds the [QuestDB load instructions](./questdb_load_instructions.md) file.
+
 <p align="center">
     <a href="https://github.com/cisco-ie/telemetry" target="_blank"><img src="https://user-images.githubusercontent.com/6020066/29088554-449866a6-7c2e-11e7-9b92-8e2802619122.png"></a>
  </p>
